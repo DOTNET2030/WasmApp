@@ -1,0 +1,6 @@
+# * binary
+
+*.dll binary
+*.wasm binary
+*.js binary
+*.json binary
